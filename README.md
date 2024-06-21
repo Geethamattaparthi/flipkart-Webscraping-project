@@ -1,7 +1,7 @@
 # PROJECT:Webscraping of flipkart
-* This repository contains a project of dataset of over 1000 mobile devices scraped from the flipkart website.
-* It includes valuable insights for market research and competitive analysis in the mobile device industry.
-* Facilitates better decision-making processes for market strategies and consumer choices.
+* This repository contains detailed PDF documentation covering all aspects and source code file of the project.
+* This project aims to provide valuable insights for market research and competitive analysis in the mobile device industry.
 #### Key features:
+* It is a EDA project contains dataset of over 1000 mobile devices scraped from the flipkart website.
 * Provides a concise list of premium options priced at least ₹80,000 and budget-friendly alternatives below ₹15,000.
-* Contributed to a 20% increase in customer satisfaction by offering a diverse range of choices.
+* Contributes to enhancing user satisfaction by offering a diverse range of choices.
